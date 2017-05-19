@@ -1,4 +1,10 @@
 one one
+<<<<<<< HEAD
 two two
 asdfasdf
 dfghdfghdfsdfsdf
+=======
+two toooo
+three three
+four
+>>>>>>> new
